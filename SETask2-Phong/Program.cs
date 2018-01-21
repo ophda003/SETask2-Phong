@@ -10,7 +10,11 @@ namespace SETask2_Phong
     {
         static void Main(string[] args)
         {
+
+            
+
             string a = "student 1";
+
             string b = "from branch 1";
         }
     }

@@ -10,7 +10,7 @@ namespace SETask2_Phong
     {
         static void Main(string[] args)
         {
-            string a = "from master";
+            string a = "user 1";
             string b = "from branch 1";
         }
     }

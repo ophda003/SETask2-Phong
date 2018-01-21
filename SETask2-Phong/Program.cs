@@ -11,6 +11,7 @@ namespace SETask2_Phong
         static void Main(string[] args)
         {
             string a = "from master";
+            string b = "from branch 1";
         }
     }
 }
